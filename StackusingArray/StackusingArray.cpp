@@ -11,7 +11,7 @@ private:
 public:
 	//constructor
 	StackArray() {
-		top = 1;
+		top = 1; 
 	}
 
 	int push(int element) {
