@@ -74,7 +74,7 @@ int main() {
 				obj.push(data);
 				break; 
 			case '2':
-				obj.pop();
+				obj.pop(); 
 			case '3':
 				obj.display();
 				break;
