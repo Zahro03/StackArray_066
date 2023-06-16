@@ -76,7 +76,7 @@ int main() {
 			case '2':
 				obj.pop(); 
 			case '3':
-				obj.display();
+				obj.display(); 
 				break;
 			case'4': {
 				return 0;
