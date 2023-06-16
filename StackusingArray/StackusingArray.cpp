@@ -72,7 +72,7 @@ int main() {
 				cout << "Masukkan data" << endl;
 				cin >> data;
 				obj.push(data);
-				break;
+				break; 
 			case '2':
 				obj.pop();
 			case '3':
