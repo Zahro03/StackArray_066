@@ -18,7 +18,7 @@ public:
 		if (top == 4) {
 			cout << "Number of data exceed the list" << endl;
 			return 0;
-		}
+		} 
 
 		top++; //step 3
 		stack_array[top] = element; //step 3
