@@ -52,7 +52,7 @@ public:
 				cout << stack_array[tmp] << endl;
 			}
 		}
-	}
+	} 
 };
 
 int main() {
